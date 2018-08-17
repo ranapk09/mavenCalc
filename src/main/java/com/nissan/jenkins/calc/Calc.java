@@ -2,7 +2,7 @@ package com.nissan.jenkins.calc;
 
 public class Calc {
 	public int add(int a, int b){
-		int a;
+		int x;
 		{
 		}return a+b;
 	}
